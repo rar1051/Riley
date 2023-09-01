@@ -1,8 +1,4 @@
 ---
-title: "Places I intend to Visit"
+title: "Picture!"
 ---
-
-1. Portugal 
-2. Banff
-3. Colorado
-4. Rio de Janiero 
+![Snowy road on our way to Canada!](websitepic.png)

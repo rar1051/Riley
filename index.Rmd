@@ -1,12 +1,14 @@
 ---
 title: "My Website"
 ---
-
-
-Hello! My name is Riley Rocha! I am a senior biology major at the University of New Hampshire. I am a 21 year old student originally from Rhode Island, I live in a very small town called Little Compton, I have 5 siblings all together, comprised of 1 brother, 1 sister, 2 step-brothers and one half sister. We all grew up in Little Compton but now we are all over the country from Rhode Island, to Hawaii, to Wisconsin. 
+ # Hello! My name is Riley Rocha! 
+ 
+I am a senior biology major at the University of New Hampshire. I am a 21 year old student originally from Rhode Island, I live in a very small town called Little Compton, I have 5 siblings all together, comprised of 1 brother, 1 sister, 2 step-brothers and one half sister. We all grew up in Little Compton but now we are all over the country from Rhode Island, to Hawaii, to Wisconsin. 
 
 A bit more about myself, I love being outdoors, I like fishing and swimming and hiking. I adore animals and exclusively watched hours of animal planet as a child. I love to learn, especially about science and history and would be a college student forever if that could be a lucrative career. My favorite food is basically everything and my favorite dessert is ice cream. 
 
 I currently work as an optometry technician at Fox Run Eye Care in Portsmouth NH. I started my college career interested in pursing a career in medicine but after working in a long term care facility as well as a doctors office I decided that direct patient facing care was not the route I wanted to pursue. I am not really sure what I want to pursue but I am willing to try pretty much anything. I am interested in chemistry and biology as well as health sciences and I am pretty impressed with myself being able to build this website!  
+
+Anyway, enjoy these random tabs about me!
 
 
